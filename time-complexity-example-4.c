@@ -10,3 +10,13 @@ int main(){
     }
     return 0;
 }
+
+
+/*
+    时间复杂度  O(log n)    log 3(底) n
+    Output      1
+                3
+                9
+                27
+                81   
+*/
