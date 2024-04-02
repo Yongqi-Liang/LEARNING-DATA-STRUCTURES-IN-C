@@ -6,10 +6,11 @@
                  name="考研数据结构"
                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
-    <toc-element topic="Capture-1.md">
-        <toc-element topic="1-1-数据结构的基本概念.md"/>
-        <toc-element topic="1-2-算法的基本概念.md"/>
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="Capture-1.md">
+            <toc-element topic="1-1-数据结构的基本概念.md"/>
+            <toc-element topic="1-2-算法的基本概念.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="markdown-help.md"/>
 </instance-profile>
